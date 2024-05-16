@@ -240,7 +240,7 @@ var simplemaps_countrymap_mapdata = {
 			name: 'Псков',
 		},
 		RUROS: {
-			name: 'Ростов',
+			name: 'Ростов-на-Дону',
 		},
 		RURYA: {
 			name: 'Рязань',
@@ -332,9 +332,24 @@ var simplemaps_countrymap_mapdata = {
 	},
 	locations: {
 		0: {
-			name: 'Москва',
-			lat: '55.752222',
-			lng: '37.615556',
+			name: 'Ставрополь',
+			lat: '45.044128',
+			lng: '41.964882',
+		},
+		1: {
+			name: 'Ростов-на-Дону',
+			lat: '47.221809',
+			lng: '39.720261',
+		},
+		2: {
+			name: 'Смоленск',
+			lat: '54.790310',
+			lng: '32.050365',
+		},
+		3: {
+			name: 'Тверь',
+			lat: '56.858723',
+			lng: '35.917599',
 		},
 	},
 	labels: {
@@ -559,7 +574,7 @@ var simplemaps_countrymap_mapdata = {
 			parent_id: 'RUPSK',
 		},
 		RUROS: {
-			name: 'Ростов',
+			name: 'Ростов-на-Дону',
 			parent_id: 'RUROS',
 		},
 		RURYA: {
