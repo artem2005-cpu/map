@@ -335,21 +335,25 @@ var simplemaps_countrymap_mapdata = {
 			name: 'Ставрополь',
 			lat: '45.044128',
 			lng: '41.964882',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9r35ld',
 		},
 		1: {
 			name: 'Ростов-на-Дону',
 			lat: '47.221809',
 			lng: '39.720261',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9qcmf0',
 		},
 		2: {
 			name: 'Смоленск',
 			lat: '54.790310',
 			lng: '32.050365',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9qysvp',
 		},
 		3: {
 			name: 'Тверь',
 			lat: '56.858723',
 			lng: '35.917599',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9r695c',
 		},
 	},
 	labels: {
