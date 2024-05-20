@@ -1,0 +1,7 @@
+h1 {
+	font-size: 70px;
+	font-weight: 600;
+	background-clip: text;
+	-webkit-background-clip: text;
+	font-family: 'soviet_font';
+}

@@ -64,7 +64,7 @@ var simplemaps_countrymap_mapdata = {
 		//Advanced settings
 		div: 'map',
 		auto_load: 'yes',
-		url_new_tab: 'yes',
+		url_new_tab: 'no',
 		images_directory: 'default',
 		fade_time: 0.1,
 		link_text: 'View Website',
@@ -242,7 +242,7 @@ var simplemaps_countrymap_mapdata = {
 		RUROS: {
 			name: 'Ростов-на-Дону',
 			color: 'red',
-			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9qcmf0',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti/%D1%80%D0%BE%D1%81%D1%82%D0%BE%D0%B2',
 		},
 		RURYA: {
 			name: 'Рязань',
@@ -265,7 +265,7 @@ var simplemaps_countrymap_mapdata = {
 		RUSMO: {
 			name: 'Смоленск',
 			color: 'red',
-			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9qysvp',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti/%D1%81%D0%BC%D0%BE%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C',
 		},
 		RUSPE: {
 			name: 'Санкт-Петербург',
@@ -273,7 +273,7 @@ var simplemaps_countrymap_mapdata = {
 		RUSTA: {
 			name: 'Ставрополь',
 			color: 'red',
-			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9r35ld',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti/%D1%81%D1%82%D0%B0%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C',
 		},
 		RUSVE: {
 			name: 'Свердловск',
@@ -293,7 +293,7 @@ var simplemaps_countrymap_mapdata = {
 		RUTVE: {
 			name: 'Тверь',
 			color: 'red',
-			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti#comp-lw9r695c',
+			url: 'https://artemvojnov8.wixsite.com/bez-sroka-davnosti/%D1%82%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B0%D1%8F-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C',
 		},
 		RUTY: {
 			name: 'Тыва',
